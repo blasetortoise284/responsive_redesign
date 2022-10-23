@@ -524,6 +524,7 @@ h2 {
         background-color: #F7F3EE;
         padding: 0.1rem 0.5rem;
         border-radius: 0.3rem;
+        text-align: center;
     }
 
     .desc-box {
@@ -534,6 +535,8 @@ h2 {
 
     .desc-box button {
         width: 1rem;
+        padding: 0.1rem;
+        font-size: 0.25rem;
     }
     
   }
@@ -558,6 +561,8 @@ h2 {
     }
     .desc-box button {
         width: 2rem;
+        padding: 0.15rem;
+        font-size: 0.5rem;
     }
 }
 
@@ -610,6 +615,7 @@ h2 {
 
     .desc-box button {
         width: 3rem;
+        padding: 0.25rem;
         font-size: 1vw;
     }
     
