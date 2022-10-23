@@ -490,6 +490,7 @@ h2 {
         font-size: 3vw;
     }
 
+
     .contact-texts h5 {
         font-size: 2.5vw;
     }
@@ -524,6 +525,16 @@ h2 {
         padding: 0.1rem 0.5rem;
         border-radius: 0.3rem;
     }
+
+    .desc-box {
+        width: 80%;
+        padding: 0.2rem 0.1rem 3rem 0.1rem;
+        margin: auto;
+    }
+
+    .desc-box button {
+        width: 1rem;
+    }
     
   }
 
@@ -544,6 +555,9 @@ h2 {
     .prod-card img {
         border-top-left-radius: 0.25rem;
         border-top-right-radius: 0.25rem;
+    }
+    .desc-box button {
+        width: 2rem;
     }
 }
 
@@ -595,9 +609,10 @@ h2 {
     }
 
     .desc-box button {
-        width: 5rem;
+        width: 3rem;
         font-size: 1vw;
     }
+    
 
     .carousel-content button img{
         width: 3vw;
@@ -611,10 +626,10 @@ h2 {
         padding: 2rem 0.5rem 4rem 0.5rem;
     }
     .desc-box {
-        padding: 1rem 0.25rem 2rem 0.25rem;
+        padding: 0.5rem 0.1rem 1rem 0.1rem;
     }
     .desc-box-coloring {
-        width: 75%;
+        width: 90%;
         background-color: #F7F3EE;
         padding: 1vw 3vw;
         border-radius: 0.3rem;
